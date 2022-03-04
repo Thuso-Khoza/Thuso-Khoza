@@ -3,8 +3,8 @@
 
 **Emmanuel T Khoza/Thuso-Khoza** 
 
-- Current position: Developer/ T/A
-- Previous work expirience: Cos 212 T/A(2020),Cos216 T/A(2021),
-- skills: competent in node js/javascript/typescript ,java,c++ 
+- Current position: Developer
+- Previous work expirience: Cos 212 T/A,Cos216 T/A,
+- skills: competent in node js/javascript/typescript ,java,c++ ,c#
 - How to reach me:emmanueltkhoza@gmail.com
 
